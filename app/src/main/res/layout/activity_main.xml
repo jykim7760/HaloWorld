@@ -16,7 +16,7 @@
     android:layout_height="wrap_content"
     android:text="Micheal Jordan"
     android:textSize="50sp"
-    android:textColor="@color/colorPrimary" "
+    android:textColor="@color/colorPrimaryDark"
     />
 
 
